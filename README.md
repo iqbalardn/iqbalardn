@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header"/>
-</p>
-
 ## 👨‍💻 Muhamad Iqbal Ardana
 System Engineer | System Architect
 
